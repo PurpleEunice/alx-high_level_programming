@@ -1,2 +1,1 @@
-# alx-high_level_programming
- 
+This is my first Python programming
